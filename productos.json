@@ -1,0 +1,92 @@
+[
+{
+    "nombre":"CAMISETA TITULAR",
+    "precio":"99",
+    "imagen":"./img/home_shirt.jpg",
+    "id":"1"
+},
+{
+    "nombre":"CAMISETA SUPLENTE",
+    "precio":"99",
+    "imagen":"./img/away_shirt.jpg",
+    "id":"2"
+},
+{
+    "nombre":"CAMISETA RETRO ",
+    "precio":"69",
+    "imagen":"./img/retro_shirt.jpg",
+    "id":"3"
+},
+{
+    "nombre":"REMERA ROJA",
+    "precio":"59",
+    "imagen":"./img/red_polo_shirt.jpg",
+    "id":"4"
+},
+{
+    "nombre":"REMERA NEGRA",
+    "precio":"59",
+    "imagen":"./img/black_polo_shirt.jpg",
+    "id":"5"
+},
+{
+    "nombre":"CAMISETA BLANCA",
+    "precio":"49",
+    "imagen":"./img/white_tshirt.jpg",
+    "id":"6"
+},
+{
+    "nombre":"CAMISETA AMARILLA",
+    "precio":"49",
+    "imagen":"./img/yellow_tshirt.jpg",
+    "id":"7"
+},
+{
+    "nombre":"CAMPERA ENTRENAMIENTO ROJA",
+    "precio":"79",
+    "imagen":"./img/red_jacket.jpg",
+    "id":"8"
+},
+{
+    "nombre":"CAMPERA ENTRENAMIENTO NEGRA",
+    "precio":"79",
+    "imagen":"./img/black_jacket.jpg",
+    "id":"9"
+},
+{
+    "nombre":"CAMPERA ROMPEVIENTOS",
+    "precio":"119",
+    "imagen":"./img/padded_jacket.jpg",
+    "id":"10"
+},
+{
+    "nombre":"PANTALON AZUL",
+    "precio":"69",
+    "imagen":"./img/blue_pants.jpg",
+    "id":"11"
+},
+{
+    "nombre":"PANTALON NEGRO",
+    "precio":"69",
+    "imagen":"./img/black_pants.jpg",
+    "id":"12"
+},
+{
+    "nombre":"PANTALON BLANCO",
+    "precio":"69",
+    "imagen":"./img/white_pants.jpg",
+    "id":"13"
+},
+{
+    "nombre":"SHORTS",
+    "precio":"49",
+    "imagen":"./img/shorts.jpg",
+    "id":"14"
+},
+{
+    "nombre":"MEDIAS",
+    "precio":"29",
+    "imagen":"./img/socks.jpg",
+    "id":"15"
+}
+]

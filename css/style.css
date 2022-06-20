@@ -1,0 +1,24 @@
+header{
+    height: 80px;
+    margin-bottom: 60px;
+    padding: 0 20px;
+    background-image: repeating-linear-gradient(135deg, rgba(24,24,24, 0.07) 0px, rgba(24,24,24, 0.07) 2px,transparent 2px, transparent 4px),repeating-linear-gradient(45deg, rgba(24,24,24, 0.07) 0px, rgba(24,24,24, 0.07) 2px,transparent 2px, transparent 4px),linear-gradient(0deg, rgb(170, 42, 46),rgba(178, 16, 30, 0.650));
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img{
+    height: auto;
+    width: 80px;
+}
+
+.linkCompra{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
